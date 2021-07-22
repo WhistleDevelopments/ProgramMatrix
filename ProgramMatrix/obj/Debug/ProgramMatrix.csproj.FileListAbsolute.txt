@@ -1,0 +1,10 @@
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\bin\Debug\ProgramMatrix.exe.config
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\bin\Debug\ProgramMatrix.exe
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\bin\Debug\ProgramMatrix.pdb
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\obj\Debug\ProgramMatrix.csproj.AssemblyReference.cache
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\obj\Debug\ProgramMatrix.Form1.resources
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\obj\Debug\ProgramMatrix.Properties.Resources.resources
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\obj\Debug\ProgramMatrix.csproj.GenerateResource.cache
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\obj\Debug\ProgramMatrix.csproj.CoreCompileInputs.cache
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\obj\Debug\ProgramMatrix.exe
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\obj\Debug\ProgramMatrix.pdb

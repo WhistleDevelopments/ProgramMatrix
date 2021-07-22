@@ -1,0 +1,9 @@
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\bin\Release\ProgramMatrix.exe.config
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\bin\Release\ProgramMatrix.exe
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\bin\Release\ProgramMatrix.pdb
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\obj\Release\ProgramMatrix.Form1.resources
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\obj\Release\ProgramMatrix.Properties.Resources.resources
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\obj\Release\ProgramMatrix.csproj.GenerateResource.cache
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\obj\Release\ProgramMatrix.csproj.CoreCompileInputs.cache
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\obj\Release\ProgramMatrix.exe
+D:\Users\lewis\source\repos\ProgramMatrix\ProgramMatrix\obj\Release\ProgramMatrix.pdb
